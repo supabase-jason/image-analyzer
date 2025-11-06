@@ -31,6 +31,3 @@ ai-pixl-vault.zip
 
 # Supabase Auth/Keys (DO NOT commit these)
 *.env.local
-
-
-

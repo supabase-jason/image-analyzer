@@ -1,0 +1,4 @@
+# .mise.toml
+[tools]
+# Node.js 20.x is the current recommended LTS branch and meets Next.js's 20.9+ minimum.
+node = "20"
